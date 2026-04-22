@@ -14,11 +14,11 @@ const projects = [
       technologies: ["HTML5", "CSS3", "JavaScript", "SQL", "Responsive Design"],
       liveLink: "http://acadexa.free.nf",
       features: [
-        "Student inquiry management system",
-        "Automated attendance tracking",
-        "Academic report generation",
-        "Responsive admin dashboard",
-        "Real-time data management"
+        "Real-time department-wise inventory tracking",
+        "Automated low-stock alerts and notifications",
+        "Usage monitoring with detailed reporting",
+        "Role-based access for Admin and Incharge",
+        "Data-driven dashboard for quick decision-making"
       ]
     },
     {
