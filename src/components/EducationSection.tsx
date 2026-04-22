@@ -9,11 +9,11 @@ const EducationSection = () => {
       institution: "Marwadi University",
       location: "Rajkot, Gujarat",
       duration: "2022 - 2026",
-      grade: "CGPA: 5.0",
+      grade: "CGPA: 5.6",
       status: "Currently Pursuing",
       achievements: [
         "NAAC A+ & NBA Tier 1 Accredited University",
-        "Consistent academic excellence with 5.0 CGPA",
+        "Consistent academic excellence with 5.6 CGPA",
         "Specialization in Full Stack Development and AI",
         "Active participation in technical projects and competitions"
       ],
