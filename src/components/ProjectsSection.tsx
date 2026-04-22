@@ -6,8 +6,8 @@ import { ExternalLink, Github, Users, FileText, Mic } from "lucide-react";
 const ProjectsSection = () => {
 const projects = [
     {
-      title: "Acadexa - Student Management System",
-      description: "Comprehensive student management platform designed for educational institutions. Features inquiry management, attendance tracking, and academic report generation with a responsive admin interface.",
+      title: "Hospital Inventory Management System",
+      description: "Developed a department-wise inventory management system with real-time tracking, usage monitoring, and low-stock alerts to enhance operational efficiency and decision-making.",
       icon: Users,
       color: "text-primary",
       bgColor: "bg-primary/10",
