@@ -56,18 +56,18 @@ const projects = [
       ]
     },
     {
-      title: "Hospital Management System",
-      description: "Comprehensive hospital management platform that streamlines the process between incharge departments and medicine suppliers. Features demand management, inventory tracking, and automated supplier communication.",
+      title: "akash-gujarat-glimpses",
+      description: "A personal photo-sharing platform developed by Akash, designed to showcase and share visual moments from across Gujarat. The website allows users to upload photos and make them publicly accessible, creating a digital gallery that highlights culture, places, and experiences.",
       icon: Users,
       color: "text-tech-orange",
       bgColor: "bg-tech-orange/10",
       technologies: ["Python", "Django", "PostgreSQL", "REST API", "Responsive Design"],
       features: [
-        "Department demand management",
-        "Medicine supplier integration",
-        "Automated inventory tracking",
-        "Real-time communication system",
-        "Comprehensive reporting dashboard"
+        "Easy photo upload and management system",
+        "Public gallery view for all users",
+        "Organized display of images by categories/locations",
+        "Responsive design for mobile and desktop access",
+        "Simple and clean user interface for smooth browsing"
       ]
     }
   ];
