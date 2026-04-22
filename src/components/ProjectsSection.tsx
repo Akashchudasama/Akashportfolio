@@ -12,7 +12,7 @@ const projects = [
       color: "text-primary",
       bgColor: "bg-primary/10",
       technologies: ["HTML5", "CSS3", "JavaScript", "SQL", "Responsive Design"],
-      liveLink: "http://acadexa.free.nf",
+      liveLink: "https://wellnessmanagement.vercel.app/login",
       features: [
         "Real-time department-wise inventory tracking",
         "Automated low-stock alerts and notifications",
