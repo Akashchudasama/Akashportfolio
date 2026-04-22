@@ -22,20 +22,20 @@ const projects = [
       ]
     },
     {
-      title: "AIMeDIYBuddy - Medical Document Q&A",
-      description: "AI-powered application enabling users to upload medical documents (PDF/DOCX/TXT) and receive intelligent, context-based answers. Implements advanced document parsing and LLM integration.",
+      title: "Employee Operations & Admin Portal",
+      description: "Enhanced internal operations by developing dashboards for attendance, revenue, and performance tracking, enabling automated workflows and efficient team coordination..",
       icon: FileText,
       color: "text-accent",
       bgColor: "bg-accent/10",
       technologies: ["Python", "Streamlit", "RAG", "Vector DB", "LLM", "Document Processing"],
-      liveLink: "https://aimediybuddy.streamlit.app/",
+      liveLink: "https://employeex.vercel.app/",
       githubLink: "https://github.com/akashchudasama/AIMeDIYBuddy",
       features: [
-        "Multi-format document upload support",
-        "Context-aware AI responses",
-        "Vector embeddings for accuracy",
-        "Medical terminology understanding",
-        "Interactive chat interface"
+        "Real-time attendance and workforce tracking",
+        "Revenue monitoring with visual dashboards",
+        "Employee performance analytics",
+        "Automated reporting and data updates",
+        "Improved admin–employee coordination system"
       ]
     },
     {
