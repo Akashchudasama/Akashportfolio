@@ -12,7 +12,7 @@ const projects = [
       color: "text-primary",
       bgColor: "bg-primary/10",
       technologies: ["HTML5", "CSS3", "JavaScript", "SQL", "Responsive Design"],
-      liveLink: "https://wellnessmanagement.vercel.app/login",
+      liveLink: "https://wellnessmanagement.vercel.app/",
       features: [
         "Real-time department-wise inventory tracking",
         "Automated low-stock alerts and notifications",
